@@ -12,7 +12,7 @@ header {
     padding: 20px 35px;
     background-color: #39a6b2;
 }
-header h1{
+header h1 {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
@@ -59,6 +59,10 @@ section {
     padding: 60px;
 }
 /* hero style start */
+
+.hero-cta {
+
+}
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
